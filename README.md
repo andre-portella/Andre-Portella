@@ -1,4 +1,4 @@
-## André Portella 👋
+## André Portella
 
 Eu sou um estudante de Ciência da Computação com grande interesse por aprendizado de máquina e ciência de dados.
 
