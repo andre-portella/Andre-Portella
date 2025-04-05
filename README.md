@@ -30,5 +30,5 @@ Eu sou um estudante de Ciência da Computação com grande interesse por aprendi
 ![](https://img.shields.io/badge/Overleaf-007B9B?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-portella-a723642a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-portella-a723642a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.camargo.portella@gmail.com)
